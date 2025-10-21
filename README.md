@@ -31,7 +31,7 @@ Follow these steps to run the project on your local machine.
 
 1.  **Clone the repository:**
     ```sh
-    git clone <YOUR_GIT_REPOSITORY_URL>
+    git clone https://github.com/CodeCraftsmanRaj/parking-oracle.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
